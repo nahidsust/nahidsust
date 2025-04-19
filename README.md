@@ -5,7 +5,7 @@
  Welcome to my GitHub profile! I'm passionate about solving problems, learning new technologies, and building impactful projects. Here's a bit about me:
 
 🚀 About Me
-- 🎓 Education : I am studying Software Engineering at Shahjalal University of Science Technology,Sylhet,Bangladesh.
+- 🎓 Education : I am studying Software Engineering at **Shahjalal University of Science Technology**,Sylhet,Bangladesh.
 - 💻 Interests: I enjoy working on Full Stack and  ML.
 - 📚 **Learning**: Currently diving into **Data Structure and Algorithm** ,**Operating System**,**System Design**,**Networking** and  **Machine Learning**.
 - 🎯 **Goal**: Get an **Internship** and work at Big Tech Companies Like 
