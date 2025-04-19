@@ -10,6 +10,13 @@
 - 📚 **Learning**: Currently diving into **Data Structure and Algorithm** ,**Operating System**,**System Design**,**Networking** and  **Machine Learning**.
 - 🎯 **Goal**: Get an **Internship** and work at Big Tech Companies Like 
       **Google**,**Meta**,**Microsoft** and **Amazon**.
+😍Problem Solving Platforms
+  -**leetCode**
+  -**Codeforces**
+  -**CodeChef**
+  -CSES
+  -GreeksForGreeks
+  -LightOJ
   
 🛠️ Skills
 - **Programming Languages**: Python, JavaScript, Java, C++
