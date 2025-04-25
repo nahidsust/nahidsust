@@ -8,8 +8,7 @@
 - 🎓 Education : I am studying Software Engineering at **Shahjalal University of Science and Technology**,Sylhet,Bangladesh.
 - 💻 Interests: I enjoy working on Full Stack and  ML.
 - 📚 **Learning**: Currently diving into **Data Structure and Algorithm** ,**Operating System**,**System Design**,**Networking** and  **Machine Learning**.
-- 🎯 **Goal**: Get an **Internship** and work at Big Tech Companies Like 
-      **Google**,**Meta**,**Microsoft** and **Amazon**.
+- 🎯 **Goal**: Get an **Internship** and work at Big Tech Companies
   
 😍Problem Solving Platforms
 - **leetCode** 
