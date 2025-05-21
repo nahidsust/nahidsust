@@ -1,6 +1,6 @@
 # Hi there, I'm Nazmul Hoque! 👋
 
-<img src="IMG_20240411_104632_572.jpg" width="300px" height="300px">
+
 
  Welcome to my GitHub profile! I'm passionate about solving problems, learning new technologies, and building impactful projects. Here's a bit about me:
 
